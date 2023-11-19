@@ -9,9 +9,9 @@ function Navbar() {
   	    <label for="menu-icon"></label>
   	    <nav class="nav"> 		
             <ul class="pt-5">
-                <li><a href="">Work</a></li>
-                <li><a href="">Studio</a></li>
-                <li><a href="">News</a></li>
+                <li><a href="">CLASS 9</a></li>
+                <li><a href="">CLASSS 10</a></li>
+                <li><a href="">ABOUT</a></li>
                 <li><a href="">Contact</a></li>
             </ul>
   	    </nav>
